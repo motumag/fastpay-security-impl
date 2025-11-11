@@ -231,7 +231,7 @@ This document provides a comprehensive security audit of the FastPay mobile appl
 |---------|-------|--------|--------|
 | Berhan Bank | 3 | 24 hours | Whitelisted users |
 | CBE (MasterCard) | 5 | 24 hours | Whitelisted users |
-| AFT CBE | 3 | 24 hours | Whitelisted users |
+| AFT BOA | 3 | 24 hours | Whitelisted users |
 
 **Security Features:**
 
