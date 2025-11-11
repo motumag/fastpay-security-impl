@@ -912,7 +912,7 @@ This guide provides comprehensive coverage of device and account security implem
 
 **Document Version:** 2.0  
 **Last Updated:** 2025-01-11  
-**Author:** AI Security Documentation System  
+**Author:** Motuma Gishu, Cofounder and Chief Technology Officer 
 **Classification:** CONFIDENTIAL - External Distribution
 
-For questions or updates, contact: security@fastpayet.com
+For questions or updates, contact: motumag@fastpayet.com
