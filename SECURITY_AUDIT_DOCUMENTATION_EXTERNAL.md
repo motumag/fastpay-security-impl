@@ -880,11 +880,13 @@ The FastPay backend demonstrates **strong security posture** with multiple defen
 | 1.0     | 2025-01-11 | AI Security Auditor | Initial comprehensive audit                  |
 | 2.0     | 2025-01-11 | AI Security Auditor | External distribution version (code removed) |
 
-**Classification:** CONFIDENTIAL - External Distribution  
+**Classification:** CONFIDENTIAL - External Distribution 
+**Prepared By:** Motuma Gishu 
+**Title:** Cofounder and Cheif Technology Officer
 **Review Frequency:** Quarterly  
 **Next Review:** 2025-04-11
 
 ---
 
 **Questions or Concerns?**  
-Contact: security@fastpayet.com
+Contact: motumag@fastpayet.com
